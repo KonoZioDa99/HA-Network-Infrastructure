@@ -20,7 +20,7 @@ Built within a simulated **GNS3** and **VMware** environment, the architecture u
 ---
 
 ## 🏗️ Architecture & Topology
-
+![HA Architecture](./HA_architecture.jpg)
 The network is segmented to separate departmental traffic while ensuring high availability at both the routing (L3) and switching (L2) layers.
 
 * **Network Segmentation:**
